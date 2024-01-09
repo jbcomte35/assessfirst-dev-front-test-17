@@ -6,7 +6,7 @@ Le test consiste à installer le framework JS de ton choix et d'exploiter une AP
 
 Pour cela il faudra : 
 
-- Cloner le repo https://github.com/jbcomte35/assessfirst-dev-front-test
+- Cloner le repo https://github.com/jbcomte35/assessfirst-dev-front-test-17
 - Créer une branche spécifique pour l’entretien
 
 - Lire le fichier README.md
@@ -15,7 +15,7 @@ Pour cela il faudra :
 
 - Lire le PDF template.pdf présentant les 2 écrans à réaliser
 
-- Installer le framework JS de ton choix (VueJS OU ReactJS)
+- Installer le framework JS VueJS
 
 - Utiliser un router pour créer 2 routes :
    + **Index** :
