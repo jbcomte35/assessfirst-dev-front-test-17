@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Le test consiste à installer le framework JS de ton choix et d'exploiter une API REST dans le but d'afficher les résultats
+Le test consiste à installer le framework JS VueJS et d'exploiter une API REST dans le but d'afficher les résultats
 
 Pour cela il faudra : 
 
